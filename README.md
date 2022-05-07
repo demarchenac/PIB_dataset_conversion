@@ -1,5 +1,5 @@
 # Conversion de los datos del PIB
-Jupyter notebook desarrollado con el fin de convertir la fuente de datos del DANE y el Banco de la república para el PIB a precios constantes, en un formato horario y desagregado por departamentos.
+[Jupyter notebook desarrollado](https://github.com/demarchenac/PIB_dataset_conversion/blob/main/PIB%20Centralized.ipynb) con el fin de convertir la fuente de datos del DANE y el Banco de la república para el PIB a precios constantes, en un formato horario y desagregado por departamentos.
 
 ## Dependencias
 - [datetime](https://github.com/zopefoundation/DateTime)
