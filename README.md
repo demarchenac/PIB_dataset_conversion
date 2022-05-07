@@ -25,7 +25,7 @@ En una nueva hoja la cual llamaremos **export**, y finalmente seleccinamos todas
 
 ![image](https://user-images.githubusercontent.com/20970325/167274236-1f197285-bd5b-41cc-97b4-0bdf4f764a45.png)
 
-Para el archivo csv del Banco de la república solo nos encargamos de cambiar el formato de todas las celdas de este a **General**
+Para el archivo csv del Banco de la república, **Producto Interno Bruto_PIB_Grafica.csv**, solo nos encargamos de cambiar el formato de todas las celdas de este a **General**
 
 *Es importante tomar en cuenta que los datos númericos han de quedar sin separadores de miles (,) y  solo con su unico separador decimal (.)*
 
